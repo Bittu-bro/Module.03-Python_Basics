@@ -10,6 +10,24 @@ print(fun1)
 fun2 = name == "Bittu" or name == "Shivam" and age <= 18
 print(fun2)
 
+
+
+#print(32**8//16)
+result = 10 + 5 > 12 and 20 > 10
+print(result)
+a = True or False and False
+print(a)
+print(10 + 5 * 2)
+print((10 + 5) * 2)
+print(20 / 5 * 2)
+print(2 ** 3 ** 2)
+print(True or False and False)
+print(10 + 5 > 10 and 20 > 5)
+
+
+
+
+
 # # Here perecedency comes in to the picture
 # # python operate "and" 1st then "or", because of python follow perecedency order.
 # '''
