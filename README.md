@@ -1,4 +1,4 @@
-# Module 04 - Python Basics 🐍
+# Module 03 - Python Basics 🐍
 
 This module covers the basic concepts of Python that I learned while getting started with programming.
 
@@ -204,6 +204,6 @@ This module builds the foundation for the upcoming Python topics.
 
 ---
 
-**Module:** 04 - Python Basics
+**Module:** 03 - Python Basics
 **Level:** Beginner
 **Status:** Completed ✅
